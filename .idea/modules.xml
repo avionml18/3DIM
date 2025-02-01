@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/3DIM.iml" filepath="$PROJECT_DIR$/.idea/3DIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../holotorch/.idea/holotorch.iml" filepath="$PROJECT_DIR$/../holotorch/.idea/holotorch.iml" />
     </modules>
   </component>
 </project>

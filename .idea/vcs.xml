@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../holotorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../holotorch/SIGGRAPH_Tutorial/holotorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../holotorch/hardwaretorch/Displays/slmPy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../holotorch/holotorch/utils/PyTorchPoly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../holotorch/holotorch/utils/pytorch_colors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../holotorch/holotorch/utils/pytorch_prototyping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../holotorch/holotorch/utils/torchinterp1d" vcs="Git" />
   </component>
 </project>
