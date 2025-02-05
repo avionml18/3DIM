@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c9c9a98-e47d-4480-8815-ba7d785f7708" name="Changes" comment="Updated Commit - 1/31/25&#10;More updates">
-      <change afterPath="$PROJECT_DIR$/HoloTorch/ExampleImages/div2k/div2k.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/3DIM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/3DIM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HoloTorch/.slm/.slm/00/SLM_0000.pt" beforeDir="false" afterPath="$PROJECT_DIR$/HoloTorch/.slm/.slm/00/SLM_0000.pt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HoloTorch/.slm/PSM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HoloTorch/.slm/PSM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../holotorch/holotorch/HolographicComponents/Modulator_Container.py" beforeDir="false" afterPath="$PROJECT_DIR$/../holotorch/holotorch/HolographicComponents/Modulator_Container.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../holotorch/holotorch/LightSources/CoherentSource.py" beforeDir="false" afterPath="$PROJECT_DIR$/../holotorch/holotorch/LightSources/CoherentSource.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holotorch/holotorch/Lightning_Modules/Base_Lightning.py" beforeDir="false" afterPath="$PROJECT_DIR$/../holotorch/holotorch/Lightning_Modules/Base_Lightning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +56,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "tutorial",
-    "last_opened_file_path": "C:/Users/Lower/PycharmProjects/3DIM",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;tutorial&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/FSOC/PycharmProjects/holotorch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lower\PycharmProjects\3DIM\HoloTorch\.slm" />
@@ -78,6 +79,7 @@
       <recent name="C:\Users\Lower\PycharmProjects\3DIM\SIGGRAPH_Tutorial" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FSOC\PycharmProjects\3DIM\HoloTorch\.slm" />
       <recent name="C:\Users\Lower\PycharmProjects\3DIM\HoloTorch\.slm" />
       <recent name="C:\Users\Lower\PycharmProjects\3DIM\HoloTorch\.slm\00" />
     </key>
@@ -137,6 +139,8 @@
       <workItem from="1738467317567" duration="54000" />
       <workItem from="1738600994644" duration="454000" />
       <workItem from="1738602028255" duration="3182000" />
+      <workItem from="1738787672691" duration="3197000" />
+      <workItem from="1738792354847" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -189,18 +193,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/HoloTorch/.slm/PSM.ipynb</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/HoloTorch/.slm/PSM.ipynb</url>
+          <line>629</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/HoloTorch/.slm/PSM.ipynb</url>
+          <line>630</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/HoloTorch/.slm/PSM.ipynb</url>
           <line>631</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/HoloTorch/.slm/PSM.ipynb</url>
           <line>632</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/HoloTorch/.slm/PSM.ipynb</url>
-          <line>633</line>
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
